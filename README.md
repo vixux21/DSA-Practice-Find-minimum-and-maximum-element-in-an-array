@@ -1,0 +1,1 @@
+# DSA-Practice-Find-minimum-and-maximum-element-in-an-array
